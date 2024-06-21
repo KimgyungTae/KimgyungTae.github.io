@@ -1,0 +1,45 @@
+Github Repository 생성
+
+Github에 로그인 한 후 오른쪽 상단에 위치하고 있는 [+] 기호를 클릭하여 "New repository"를 클릭한다.
+
+Repository name:
+
+- 반드시 <사용자이름>.github.io 또는 <조직이름>.github.io로 명명해야 한다.
+
+- 반드시 <사용자이름>에는 자신의 github 사용자이름을 명확하게 넣자!
+
+- 만약 <사용자이름>.github.com 이라는 저장소와 <사용자이름>.github.io 라는 저장소가 공존하는 경우 오직 <사용자이름.github.io 만 사이트로 배포된다. (github 가이드의 #types-of-github-pages-sites)
+
+Public 또는 Private:
+
+- 당연히 공공연히 공개할 것이므로 Public에 체크한다.
+
+Initialize this repository with:
+
+Add a README file 에 체크
+
+홈페이지 코드 작성 ( 테마 활용하거나 스스로 만들기) 
+
+테마 활용하는 경우: http://jekyllthemes.org/, startbootstrap 등에서 테마 정하기.
+
+어떤 테마사용했는지 README파일에 작성.
+
+테마활용하지 않는 경우: 스스로만들기 ->10점까지 추가점수 있음 
+
+ 
+
+평가 기준
+
+1. README 파일 작성 0~5 점
+
+2. 나의 스킬 작성 할수있는것 0~5점
+
+3. 프로젝트 5개 쓰기 본인이 수행해본것, 없으면 앞으로 할 것(예정)이라고 프로젝트 이름에 작성 0~10 점
+
+4. 희망 직무 0~5 점
+
+ 
+
+제출 목록
+
+README 파일( 파일에 홈페이지에 대한 설명과 github주소 적혀있어야함)
